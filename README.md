@@ -1,9 +1,37 @@
-Conversor de Temperatura: Fahrenheit para Celsius
+# 🌡️ Conversor de Temperatura: Fahrenheit para Celsius
 
-Este projeto permite converter uma temperatura inserida pelo usuário em Fahrenheit para Celsius.
+Este é um projeto simples que permite converter uma temperatura inserida pelo usuário em **Fahrenheit para Celsius**.
 
-Funcionalidade:
-	•	Solicitar ao usuário a temperatura em Fahrenheit.
-	•	Realizar a conversão para Celsius utilizando a fórmula:
-  C = (5/9) * (F - 32)
-	•	Exibir o resultado em Celsius formatado com duas casas decimais.
+---
+
+## ✨ Funcionalidade
+
+- Solicita ao usuário uma temperatura em **Fahrenheit**
+- Realiza a conversão para **Celsius** utilizando a fórmula:  
+  \[
+  C = \frac{5}{9} \times (F - 32)
+  \]
+- Exibe o resultado em Celsius, formatado com **duas casas decimais**
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- Python 
+
+---
+
+## 📌 Observações
+
+- Projeto básico, ideal para iniciantes que estão aprendendo entrada de dados, cálculos matemáticos e formatação numérica
+- Pode ser adaptado para interface gráfica ou uso web futuramente
+
+---
+
+## 🚀 Como executar
+
+1. Clone este repositório
+2. Execute o arquivo `.py` em um terminal ou IDE de sua preferência
+3. Siga as instruções exibidas na tela
+
+---
